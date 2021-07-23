@@ -1,5 +1,17 @@
 Model — View — ViewModel (MVVM) 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners/master/assets/banner-mvvm-arch-beginners.jpg">
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners/master/assets/mvvm-arch.png">
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners/master/assets/project-structure-mvvm.png">
+</p>
+<br>
+<br>
 The separate code layers of MVVM are:
 
     Model: This layer is responsible for the abstraction of the data sources. Model and ViewModel work together to get and save the data.
